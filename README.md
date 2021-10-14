@@ -67,6 +67,6 @@
 
 Note From : simple_animations in <a href="https://pub.dev/packages/simple_animations">pub.dev</a> !! 
 
-<h1> Flutter Animation 🖤 Made with algeria By DZ-TM071 🔥 </h1>
+<h1> Flutter Animation 🖤 Made with algeria By DZ-TM071 🔥🚀 </h1>
 
 
